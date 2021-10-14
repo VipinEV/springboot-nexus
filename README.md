@@ -1,6 +1,6 @@
 # SpringBoot Nexus Integration
 
-Demonstrate the capabilities of deploying a springboot artefact toa self managed nexus repository instance.
+Demonstrate the capabilities of deploying a springboot artefact to a self managed nexus repository instance.
 
 [PDF Version](readme.pdf)
 
